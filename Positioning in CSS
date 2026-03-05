@@ -27,42 +27,44 @@
         position: sticky;
         top: 1px;
         left: 20px;
-        width: 100px;
+        width:100px;
         border: 3px solid #73AD21;
     }
-    </style>
-    </head>
-    <body>
-    <h2>POSITIONING</h2>
-    <div>
-    Div with no position property
+</style>
+</head>
+<body>
+<!-- change the position to show the diffference
+static
+relative
+fixed
+absolute
+sticky-->
+<h2>POSITIONING</h2>
+<div>
+   Div with no position property
+</div>
+<div class="sticky">
+  Div with sticky position property
+</div>
+<div class="relative">
+    This div element has position: relative;
+    <div class="absolute">
+        Absolute class DIV
     </div>
-    <div class="sticky">
-    Div with sticky position property>
-    </div>
-    <div class="relative">
-        This div element has position: relative;
-        <div class="absolute">
-            Absolute class DIV
-            </div>
-        </div>
-        <div class="fixed">
-          Div with fixed position property
-        </div>
+</div>
+<div class="fixed">
+  Div with fixed position property
+</div>
 
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
-
-    </body>
-    </html>
+  
+</body>
+</html>
